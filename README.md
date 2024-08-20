@@ -19,5 +19,4 @@ The power grid: With better outage prediction, we can take preventative actions 
 National Security: Energy security is a key component in keeping our nation safe. Help us make improvements where we need it to improve the grid’s resiliency
 
 ### Where to start:
-* Open the notebook in google colab to get started
-* Basic outage data is provided
+* Open the notebook in google colab to [get started](https://github.com/BasePowerCompany/austin_hackathon_20240920/blob/main/base_power_outage_prediction.ipynb)
